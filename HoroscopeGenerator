@@ -1,0 +1,4 @@
+public class HoroscopeGenerator {
+  public static String makePhrase () {
+  
+    String [] wordListOne = {"the future holds for you", "opportunities arising", "stay strong these days", 
